@@ -1,5 +1,5 @@
 # Wealth Calculator Hub
-# Hi 👋 I'm Abhishek Sharma
+# Hi 👋 I'm Abhishek
 
 Founder of **Wealth Calculator Hub**.
 

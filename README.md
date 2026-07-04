@@ -1,4 +1,4 @@
-# wealth-calculator-hub
+# wealth calculator hub
 # Hi 👋 I'm Abhishek Sharma
 
 Founder of **Wealth Calculator Hub**.
